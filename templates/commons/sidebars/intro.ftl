@@ -1,7 +1,7 @@
 <div class="row">
 	<div class="col-md-11 col-md-offset-1 card intro">
 		<div class="logo">
-			<a href="${config.sidebar_intro_about}"><img src="${config.sidebar_intro_pic_src}" 
+			<a href="${config.sidebar_intro_about}"><img src="${config.site_host}${config.sidebar_intro_pic_src}" 
 			alt="${config.sidebar_intro_header}"
 				class="img-responsive img-circle" style="margin: 0 auto;"></a>
 		</div>
