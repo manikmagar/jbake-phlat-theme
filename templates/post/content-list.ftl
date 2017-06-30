@@ -6,6 +6,6 @@
             <li><i class="fa fa-user"></i>${post.author!config.site_author}</li>
         </ul>
         ${post.summary!''}
-        <a class="btn btn-custom" href="${content.rootpath}${post.noExtensionUri!post.uri}" role="button">Read More</a>
+        <div class="text-right"><a class="btn btn-custom" href="${content.rootpath}${post.noExtensionUri!post.uri}" role="button">Read More</a></div>
     </div>
 </div>

@@ -227,42 +227,6 @@ footer .links a {
     padding-bottom: 10px;
 }
 
-footer .social-media {
-    text-align: left;
-}
-
-footer .social-media li {
-   background-color: #333;
-    border-radius: 30px;
-    color: #fff;
-    display: inline-block;
-    height: 30px;
-    line-height: 30px;
-    margin: auto 3px;
-    width: 30px;
-    font-size: 15px;
-    text-align: center;
-}
-
-footer .social-media li:not(:last-of-type) {
-    border-left: none;
-}
-
-footer .social-media a {
-    background-color: #f2f2f2;
-    display: block;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
-footer .social-media a:hover {
-    background-color: #ffffff;
-}
-
-footer .social-media .fa {
-    padding-right: 0px;
-}
-
 footer a {
     color: #333333;
     font-weight: bold;

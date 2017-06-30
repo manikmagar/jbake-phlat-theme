@@ -6,7 +6,7 @@ tags=blog
 categories=cat1, cat2
 status=published
 author=Manik Magar
-description=This is a description of second post.
+summary=This is a description of second post.
 ~~~~~~
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.
