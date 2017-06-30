@@ -1,0 +1,59 @@
+.intro .header a {
+	font-size: 20px;
+	font-weight: bold;
+	color: #000000;
+}
+
+.intro .summary p {
+	font-size: inherit;
+	margin-top: 10px;
+}
+
+.demopadding {
+  margin:10px auto;
+  width:230px;
+  text-align:center;
+}
+.icon {
+	position:relative;
+	text-align:center;
+	width:0px;
+	height:0px;
+	padding:20px;
+	border-top-right-radius: 	20px;
+	border-top-left-radius: 	20px;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 	20px; 
+	-moz-border-radius: 		20px 20px 20px 20px;
+	-webkit-border-radius: 		20px 20px 20px 20px;
+	-khtml-border-radius: 		20px 20px 20px 20px; 	
+	color:#FFFFFF;
+}
+.icon a {
+	color:#FFFFFF;
+}
+.icon a i {
+	font-size:20px;
+	position:absolute;
+	left:9px;
+	top:10px;
+}
+.icon.social {
+	float:left;
+	margin:0 5px 0 0;
+	cursor:pointer;
+	background:#cc4444 ;
+	color:#FFFFFF;
+	transition: 0.5s;
+	-moz-transition: 0.5s;
+	-webkit-transition: 0.5s;
+	-o-transition: 0.5s; 	
+}
+.icon.social a i {
+	left:11px;
+}
+.icon.social.fb a i {
+	left:13px;
+	top:10px;
+}
+
