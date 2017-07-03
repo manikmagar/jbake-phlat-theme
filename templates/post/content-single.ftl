@@ -15,5 +15,5 @@
        
     </div>
 </div>
-
+<#include "prev-next-post.ftl">
 <#include "../commons/disqus.ftl">
