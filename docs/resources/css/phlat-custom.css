@@ -57,3 +57,6 @@
 	top:10px;
 }
 
+.archived-posts .list-inline {
+	margin-bottom: 0;
+} 
