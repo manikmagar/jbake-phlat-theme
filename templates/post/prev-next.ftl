@@ -1,4 +1,4 @@
-<#if (config.index_paginate?boolean && numberOfPages > 1) >
+<#if (config.index_paginate && numberOfPages > 1) >
     <div class="row">
         <div class="col-md-12">
             <div class="row">
